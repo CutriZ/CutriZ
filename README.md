@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CutriZ
-- 🌱 I’m currently learning ...React.js
 
 <!---
 CutriZ/CutriZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
